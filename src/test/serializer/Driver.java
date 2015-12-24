@@ -13,6 +13,10 @@ import org.codehaus.jackson.map.module.SimpleModule;
 import test.domain.Item;
 import test.domain.User;
 
+/*
+ * This example shows how to serialize java objects into JSON string
+ */
+
 public class Driver {
 
 	public static void main(String[] args) {

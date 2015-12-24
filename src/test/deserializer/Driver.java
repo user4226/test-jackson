@@ -13,6 +13,11 @@ import org.codehaus.jackson.type.TypeReference;
 import test.domain.Item;
 import test.domain.User;
 
+/*
+ * This example is to show how to deserialize JSON string into Java objects
+ * Object User is child of object Item
+ */
+
 public class Driver {
 
 	/**
